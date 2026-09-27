@@ -1,0 +1,74 @@
+[
+ {
+  "lesson": "hist-l1",
+  "bytes": 18196794,
+  "duration": 87.0,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "a8157d71fa126af901716f2eeb9dcda02ac968e1c48840e3d959c8ac3d1bc236"
+ },
+ {
+  "lesson": "hist-l5",
+  "bytes": 18712217,
+  "duration": 80.72,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "8a01a83508673b36ab388fa2c81230b84a678e0f4dc6e33eebeabe2c5e7eb2af"
+ },
+ {
+  "lesson": "hist-l3",
+  "bytes": 16959394,
+  "duration": 98.2,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "445ff71d9913c67588fe74dd2fc8f32ffe706365151ade6b17d4fdd2ae76de10"
+ },
+ {
+  "lesson": "gk-l2",
+  "bytes": 15352703,
+  "duration": 64.5,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "28a83900da78fa2e1f60541a980656a80e60d45ed3534eb7c0cdef8687084320"
+ },
+ {
+  "lesson": "gk-l4",
+  "bytes": 18847163,
+  "duration": 82.03,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "7cbec4f452344fbdd67c7817f71f2af26754d2fa3d2e18349b8425f16a958139"
+ },
+ {
+  "lesson": "psy-l1",
+  "bytes": 16217050,
+  "duration": 81.38,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "db1a6d716c33d2a73fd8c1f6c4c1dfcc0295aa1d6df53c0c9337538050c7b7bc"
+ },
+ {
+  "lesson": "psy-l2",
+  "bytes": 17697450,
+  "duration": 81.15,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "ee51361ede2be14ab14270435df2fde69d157df4f62de866afc9bd88d9b16a48"
+ },
+ {
+  "lesson": "psy-l4",
+  "bytes": 16834926,
+  "duration": 87.1,
+  "codec": "h264",
+  "width": 1280,
+  "height": 720,
+  "sha256": "24c60ded6e01041141e0602b90f0a2a72c42f6e6428b2efdc47dc798ccc6dcb3"
+ }
+]
