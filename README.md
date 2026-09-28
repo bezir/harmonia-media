@@ -16,3 +16,12 @@ Verify downloads against these hashes:
 | psy-l4 | 87.1s | 16834926 | `24c60ded6e01041141e0602b90f0a2a72c42f6e6428b2efdc47dc798ccc6dcb3` |
 
 Source release: `lesson-media-v1` (immutable; never re-upload under this tag).
+
+Canonical playback URLs (CORS-clean, pinned to the binaries commit):
+
+```
+https://raw.githubusercontent.com/bezir/harmonia-media/675e906abfc1b16df2c79765ab214ce0945c7040/<lesson>.mp4
+```
+
+The `lesson-media-v1` release keeps identical bytes as a backup; prefer
+the raw URLs above (release downloads lack CORS headers for web video).
